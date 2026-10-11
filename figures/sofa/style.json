@@ -1,0 +1,21 @@
+{
+  "title": "Динамика SOFA у пациентов, получивших LPS-гема",
+  "figure_size": [
+    16,
+    8
+  ],
+  "font_family": "DejaVu Sans",
+  "font_size": 12,
+  "title_size": 23,
+  "png_dpi": 300,
+  "colors": {
+    "median": "#28659E",
+    "survivors": "#14856B",
+    "deceased": "#BF593F"
+  },
+  "median_line_width": 3,
+  "patient_line_width": 1.1,
+  "patient_marker_size": 3,
+  "median_marker_size": 7,
+  "quartile_alpha": 0.13
+}
