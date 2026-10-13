@@ -1,21 +1,22 @@
 {
-  "title": "Динамика SOFA у пациентов, получивших LPS-гема",
+  "title": "Динамика SOFA · LPS-ГЕМО",
   "figure_size": [
-    16,
-    8
+    12,
+    7.5
   ],
   "font_family": "DejaVu Sans",
-  "font_size": 12,
-  "title_size": 23,
-  "png_dpi": 300,
+  "font_size": 15,
+  "title_size": 26,
+  "png_dpi": 400,
   "colors": {
-    "median": "#28659E",
-    "survivors": "#14856B",
-    "deceased": "#BF593F"
+    "median": "#235E9A",
+    "survivors": "#078372",
+    "deceased": "#C15B43",
+    "patient": "#8292A6"
   },
-  "median_line_width": 3,
-  "patient_line_width": 1.1,
-  "patient_marker_size": 3,
-  "median_marker_size": 7,
-  "quartile_alpha": 0.13
+  "median_line_width": 3.6,
+  "patient_line_width": 1.3,
+  "patient_alpha": 0.48,
+  "outcome_patient_alpha": 0.30,
+  "quartile_alpha": 0.12
 }
